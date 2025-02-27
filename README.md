@@ -73,5 +73,9 @@ This **Online Learning Platform** is a **full-stack web application** that allow
 ### **🚀 Next Steps**
 - ✅ Add **Quiz System**  
 - ✅ Add **Progress Tracking**  
-- ✅ Improve **UI/UX**  
+- ✅ Improve **UI/UX**
+
+## **OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/a1a10a54-d74a-4c37-807f-f76cd33c4310)
 
